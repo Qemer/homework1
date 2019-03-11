@@ -1,0 +1,41 @@
+.body,html{
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 500px;
+    margin: 0px auto;
+}
+
+.div2{
+    background-color: lightgrey;
+    width: 500px;
+    height: 200px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+}
+
+.div3 {
+    background-color: grey;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    text-align: center;
+    font-size: 24px;
+    right: -25px;
+    top:100px;
+}
+
+.div1 {
+    background-color: grey;
+    width: 200px;
+    height: 100px;
+    position: fixed;
+    text-align: center;
+    font-size: 24px;
+    left: 0px;
+   
+}
